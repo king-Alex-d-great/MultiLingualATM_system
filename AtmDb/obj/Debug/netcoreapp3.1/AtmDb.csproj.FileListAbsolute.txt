@@ -1,0 +1,12 @@
+C:\Users\ogubu\source\repos\MultiLingualATMCORE\AtmDb\bin\Debug\netcoreapp3.1\AtmDb.deps.json
+C:\Users\ogubu\source\repos\MultiLingualATMCORE\AtmDb\bin\Debug\netcoreapp3.1\AtmDb.runtimeconfig.json
+C:\Users\ogubu\source\repos\MultiLingualATMCORE\AtmDb\bin\Debug\netcoreapp3.1\AtmDb.runtimeconfig.dev.json
+C:\Users\ogubu\source\repos\MultiLingualATMCORE\AtmDb\bin\Debug\netcoreapp3.1\AtmDb.dll
+C:\Users\ogubu\source\repos\MultiLingualATMCORE\AtmDb\bin\Debug\netcoreapp3.1\AtmDb.pdb
+C:\Users\ogubu\source\repos\MultiLingualATMCORE\AtmDb\obj\Debug\netcoreapp3.1\AtmDb.csproj.AssemblyReference.cache
+C:\Users\ogubu\source\repos\MultiLingualATMCORE\AtmDb\obj\Debug\netcoreapp3.1\AtmDb.AssemblyInfoInputs.cache
+C:\Users\ogubu\source\repos\MultiLingualATMCORE\AtmDb\obj\Debug\netcoreapp3.1\AtmDb.AssemblyInfo.cs
+C:\Users\ogubu\source\repos\MultiLingualATMCORE\AtmDb\obj\Debug\netcoreapp3.1\AtmDb.csproj.CoreCompileInputs.cache
+C:\Users\ogubu\source\repos\MultiLingualATMCORE\AtmDb\obj\Debug\netcoreapp3.1\AtmDb.dll
+C:\Users\ogubu\source\repos\MultiLingualATMCORE\AtmDb\obj\Debug\netcoreapp3.1\AtmDb.pdb
+C:\Users\ogubu\source\repos\MultiLingualATMCORE\AtmDb\obj\Debug\netcoreapp3.1\AtmDb.genruntimeconfig.cache
